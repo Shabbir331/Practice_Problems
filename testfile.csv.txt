@@ -1,0 +1,11 @@
+Salutation,First Name,Last Name,Title,Mailing Street,Mailing City,Mailing State/Province,Mailing Zip/Postal Code,Mailing Country,Phone,Email,Contact Record Type,Account Name,Account Owner,Lead Source
+Mr.,Alejandro,Rosales,Operations Manager,414 Main Street,Anytown,AL,95762,United States,+18705550156,arosales@example.com,Customer,Example Corp.,Richard Roe,Website
+Ms.,Ana Carolina,Silvia,Customer Service Representative,300 First Avenue,Any Town,AK,65141,United States,(727) 555-0128,asilvia@example.com,Qualified Lead,AnyCompany,Jane Doe,Seminar
+Mrs.,Juan,Li,Auditor,717 Kings Street,Anytown,AZ,18162,United States,768.555.0122,jli@example.com,Unqualified Lead,Example Corp.,Richard Roe,Phone
+Dr.,Arnav,Desai,Senior Analyst,782 Park Court,Anytown,AR,27084,United States,+17685550162,adesai@example.com,Customer,Example Corp.,Richard Roe,Website
+Mr.,Mateo,Jackson,Sales Representative,372 Front Street,Any Town,CA,83884,United States,(781) 555-0169,mjackson@example.com,Customer,AnyCompany,Jane Doe,Seminar
+Mr.,Nikhil,Jayashankar,Executive Assistant,468 Fifth Avenue,Anytown,CO,75376,United States,384.555.0178,njayashankar@example.com,Qualified Lead,Example Corp.,Jane Doe,Website
+Mrs.,Shirley,Rodriguez,Account Manager,287 Park Avenue,Any Town,CT,26715,United States,+12455550188,srodriguez@example.com,Qualified Lead,Example Corp.,Richard Roe,Seminar
+Ms.,Xiulan,Wang,Information Architect,107 Queens Place,Anytown,DE,70710,United States,(213) 555-0192,xwang@example.com,Unqualified Lead,Example Corp.,Richard Roe,Phone
+Miss,Saanvi,Sarkar,Director of Finance,273 Sample Boulevard,Any Town,FL,85431,United States,237.555.0121,ssarkar@example.com,Customer,AnyCompany,Richard Roe,Referral
+Mr.,Wei,Zhang,Legal Counsel,15 Third Avenue,Any Town,GA,82387,United States,+18065550179,wzhang@example.com,Customer,AnyCompany,Jane Doe,Website
